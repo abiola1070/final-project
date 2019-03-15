@@ -1,0 +1,61 @@
+h1{
+color: rgb(224, 129, 129);
+text-align: center;
+font-family: cursive;
+text-decoration-style: solid;
+
+}
+#food{
+    height: 250px;
+    width: 190px;
+    padding-top: 15px;
+    border-radius: 20%;
+    margin-left:40px;
+    padding-left:3px;
+}
+.wrapper {
+    display: flex;
+    background-image: url("img/tom.jpg");
+}
+.text{
+    font-size: 18px;   
+}
+.ama{ background-color:rgb(184, 118, 151);
+margin-right: 90px;
+margin-left: 5px;
+border-radius: 10px;
+padding-left: 8px;
+}
+.order > a{
+      text-decoration: none;
+       color: rgb(219, 116, 138);
+
+}
+.order{
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 220px;
+ border-radius: 10px;
+    background-color: rgb(167, 228, 185);
+    box-shadow: 5px 5px 5px; color: brown;
+    height: 20px;
+     font-family: cursive; 
+      text-align:center;
+      padding-top: 10PX;
+      padding-bottom: 30PX;
+}
+#ig{ padding-top: 44px;
+
+}
+
+#li{
+    padding-top: 80px;
+}
+#efo{
+    padding-top: 39px;
+}
+#foot{
+    text-align:center;
+    background-color:rgb(184, 118, 151);
+
+}
